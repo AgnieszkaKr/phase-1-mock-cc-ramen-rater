@@ -25,20 +25,36 @@
       "comment": "Do buy the hype."
     },
     {
-      "name": "g",
-      "restaurant": "sdg",
-      "image": "dgs",
-      "rating": "4",
-      "comment": "sdgsd",
-      "id": 5
+      "id": 4,
+      "name": "Gyukotsu Ramen",
+      "restaurant": "Za-Ya Ramen",
+      "image": "./assets/ramen/gyukotsu.jpg",
+      "rating": 8,
+      "comment": "Good to the last drop."
     },
     {
-      "name": "sdg",
-      "restaurant": "sdgs",
-      "image": "sdg",
-      "rating": "4",
-      "comment": "asfas",
+      "id": 5,
+      "name": "Kojiro Red Ramen",
+      "restaurant": "Ramen-Ya",
+      "image": "./assets/ramen/kojiro.jpg",
+      "rating": 6,
+      "comment": "Perfect for a cold night."
+    },
+    {
+      "name": {},
+      "restaurant": {},
+      "image": {},
+      "rating": {},
+      "comment": {},
       "id": 6
+    },
+    {
+      "name": "gjd",
+      "restaurant": "gsgjfgj",
+      "image": "sgfjfgj",
+      "rating": "6",
+      "comment": "gdjfd",
+      "id": 7
     }
   ]
 }
